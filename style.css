@@ -206,6 +206,10 @@ height: 200px;
         gap: 40px;
         margin-top: 30px;
     }
+    .sam-left{
+        height: 900px;
+        width: 900px;
+    }
     .footer{
         flex-direction: column;
         padding: 20px;
@@ -216,6 +220,9 @@ height: 200px;
     }
     .anfac-left h1{
         font-size: 30px;
+    }
+    .nowBtn{
+        padding: 20px;
     }
 }
 

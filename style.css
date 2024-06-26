@@ -209,10 +209,13 @@ height: 200px;
     .footer{
         flex-direction: column;
         padding: 20px;
-        height: 1080px;
+        height: 1380px;
     }
     .anfac{
         flex-direction: column;
+    }
+    .anfac-left h1{
+        font-size: 30px;
     }
 }
 
